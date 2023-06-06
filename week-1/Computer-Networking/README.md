@@ -16,3 +16,11 @@ IP Dynamic: IP dynamic adalah alamat IP yang diberikan secara dinamis oleh serve
 <br/>
 <br/>
 IP Static: IP static adalah alamat IP yang ditetapkan secara manual pada perangkat dan tidak berubah seiring waktu. Alamat IP static ditentukan secara manual oleh pengguna atau administrator jaringan dan diberikan kepada perangkat untuk jangka waktu yang lama. Alamat IP static memudahkan pengaturan jaringan tertentu, seperti server web atau printer jaringan, karena alamat IP tersebut tetap konsisten dan dapat diandalkan.
+<br/>
+<br/>
+
+# 2. rancangan sebuah jaringan dengan diagram
+
+![1](/week-1/Computer-Networking/img/1.png)
+
+*jujur sebenernya saya juga masih belum terlalu paham buat jaringan ini
