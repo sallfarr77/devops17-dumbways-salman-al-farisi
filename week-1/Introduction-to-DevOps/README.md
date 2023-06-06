@@ -34,7 +34,37 @@ DevOps adalah suatu pendekatan kolaboratif dan berkelanjutan dalam pengembangan 
 
 ![5](/week-1/Introduction-to-DevOps/img/5.png)
 
+6. Selanjutnya kita bisa memilih ubuntu server, untuk search for third party drivers itu opsional
 
+![6](/week-1/Introduction-to-DevOps/img/6.png)
+
+7. Selanjutnya kita akan mengubah ipv4 kita dari dinamis ke statis, pertama-tama kita harus memperhatikan ipconfig kita yang ada di windows dari mulai subnet hingga gateway, lalu selanjutnya kita bisa mengisi sesuai format yang ada.
+
+![7](/week-1/Introduction-to-DevOps/img/7.png)
+
+8. berikut adalah configurasi ip statis yang saya gunakan 
+
+![8](/week-1/Introduction-to-DevOps/img/8.png)
+
+9. Untuk selanjutnya kita akan di mintai commit untuk menyimpan configurasi yang telah kita pilih, mohon di perhatikan tindakan ini tidak akan bisa di ubah nantinya ( bisa saja di ubah akan tetapi akan lebih sulit ).
+
+![9](/week-1/Introduction-to-DevOps/img/9.png)
+
+10. Setelah kita commit langkah terakhir kita akan membuat aku untuk ubuntu kita, mohon di inggat akun ubuntu berbeda dari akun Vm ubuntu yang telah kita buat di awal.
+
+![10](/week-1/Introduction-to-DevOps/img/10.png)
+
+11. Langkah selanjutnya sangat penting yaitu install ssh, disarankan untuk menginstall karna akan sangat berguna untuk projek kita.
+
+![11](/week-1/Introduction-to-DevOps/img/11.png)
+
+12. Disini kita akan menunggu instalasi di Vm yang mungkin sangat lama, tergantung dari spec dan device yang kita gunakan, jika berhasil tampilannya akan seperti ini, kita tinggal masukan akun ubuntu yang suda kita buat saat installasi.
+
+![12](/week-1/Introduction-to-DevOps/img/12.png)
+
+13. Langkah terakhir kita bisa mengecek koneksi internet kita denga comand ping google, dan jika berhasil selamat kita telah berhasil menginstall dan menconfigurasi ubuntu server di mode Vm
+
+![13](/week-1/Introduction-to-DevOps/img/13.png)
 
 
 
