@@ -23,4 +23,3 @@ IP Static: IP static adalah alamat IP yang ditetapkan secara manual pada perangk
 
 ![1](/week-1/Computer-Networking/img/1.png)
 
-*jujur sebenernya saya juga masih belum terlalu paham buat jaringan ini
