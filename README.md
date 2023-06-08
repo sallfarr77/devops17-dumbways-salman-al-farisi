@@ -1,6 +1,6 @@
 # DevOps Project
-
-## Daftar Mingguan
 <br/>
 
-1.    [week-1](week-1)
+## Daftar Mingguan
+
+## 1. [week-1](week-1)
