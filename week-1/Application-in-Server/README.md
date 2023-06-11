@@ -32,3 +32,26 @@ Microservices: Arsitektur microservices memecah aplikasi menjadi bagian-bagian y
 <br/>
 
 **Microservices:** Dalam microservices, setiap layanan independen dapat diperbarui dan dideploy secara terpisah. Ini memberikan fleksibilitas dalam mengubah, memperbarui, dan mengganti layanan tanpa mempengaruhi aplikasi secara keseluruhan.
+<br/>
+
+<br/>
+
+## 2. Deploy Aplikasi wayshub-frontend dengan menggunakan NodeJS
+
+1. Pertama-tama kita bisa membuat folder project terlebih dahulu dengan menggunakan comand `mkdir`.
+
+![1](/week-1/Application-in-Server/img/1.png)
+
+2. setelah membuat folder project kita lalu meng clone website wayshub dengan mengambilnya langsung dari repositori github dengan perintah `git clone https://github.com/dumbwaysdev/wayshub-frontend`.
+
+![2](/week-1/Application-in-Server/img/2.png)
+
+3. Setelah selesai meng-clone lalu kita masuk ke folder wayshub dengan comand `cd` lalu di dalam folder kita harus menginstall semua dependensi dan package yang di perlukan, kita bisa melakukannya dengan cukup mengetikan `npm install`
+
+![3](/week-1/Application-in-Server/img/3.png)
+
+4. Kita juga bisa memperbaiki keamanan dengan `npm audit fix`.
+
+![4](/week-1/Application-in-Server/img/4.png)
+
+5.
