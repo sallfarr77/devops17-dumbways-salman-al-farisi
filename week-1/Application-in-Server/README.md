@@ -69,3 +69,58 @@ Microservices: Arsitektur microservices memecah aplikasi menjadi bagian-bagian y
 8. Setelah itu kita bisa langsung mengecek menggunakan local host atau alamat ip computer kita di browser dan ini adalah website wayshub yang telah kita berhasil deploy.
 
 ![8](/week-1/Application-in-Server/img/8.png)
+<br/>
+
+<br/>
+
+## 3. Deploy Golang dengan menampilkan nama kita
+
+1. Pertama kita harus menginstall bahasa pemograman golang terlebih dahulu di os ubuntu kita, sebelumnya kita akan meng update repositori ubuntu dengan comand `sudo apt update && sudo apt upgrade -y`.
+
+![9](/week-1/Application-in-Server/img/9.png)
+
+2. Setelah selesai mengupdate repo ubuntu kita akan membuat folder baru yang akan kita berinama golang di dalam folder project yang telah kita buat.
+
+![10](/week-1/Application-in-Server/img/10.png)
+
+3. Selanjutnya kita bisa menginstall golang resmi dari repositori ubuntu dengan simpelnya mengetikan comand `sudo apt install golang` lalu kita tunggu sampai proses installasi selesai.
+
+![11](/week-1/Application-in-Server/img/11.png)
+
+4. Selanjutnya kita akan membuat file baru dengan nama `print-name.go` go sendiri adalah ekstensi dari golong ketikan comand berikut: `nano print name.go`
+dan ketikan kode yang ada dibawah gambar ini.
+
+![12](/week-1/Application-in-Server/img/12.png)
+
+5. Setelah selesai kita bisa keluar dari nano dengan menekan tombol ctrl+x yang ada di keyboard, dan ketikan comand `go build print-name.go` untuk membangun aplikasi golang yang telah kita buat.
+
+![13](/week-1/Application-in-Server/img/13.png)
+
+6. Setelah selesai membangun file tadi kita akan notice bahwa ada file baru di folder kita dengan nama print-name, kita bisa langsung menjalankan file tersebut dengan mengetikan `./print-name` di terminal dan kode tersebut akan berjalan dan menampilkan nama kita.
+
+![14](/week-1/Application-in-Server/img/14.png)
+<br/>
+
+<br/>
+
+## 4. Deploy Python dengan menampilkan nama kita
+
+1. Untuk langkah pertama sama seperti project golang, kita bisa membuat folder terlebih dahulu di dalam project kita bernama python, karna python sudah hampir terinstall semua secara bawaan di hampir semua distro linux jadi kita hanya akan menginstall pip dengan comand `sudo apt install pip`.
+
+![15](/week-1/Application-in-Server/img/15.png)
+
+2. Setelah pip terinstall, kita akan membuat file baru dengan ekstensi .py dengan nama print-name.py dan kita juga akan menginstall flask untuk menyajikan code kita yang akan di tampilkan didalam web browser, kita bisa menginstall flask dengan comand `pip install flask`.
+
+![16](/week-1/Application-in-Server/img/16.png)
+
+3.  Tuliskan code seperti di bawah ini, lalu setelah selesai kita akan keluar dari nano dengan menekan tombol ctrl+x.
+
+![17](/week-1/Application-in-Server/img/17.png)
+
+4. Setelah selesai kita bisa menjalankan script tersebut dengan perintah `python3 print-name.py` disana flask akan memberi tahu bahwa script kita telah running di local host maupun jaringan local kita.
+
+![18](/week-1/Application-in-Server/img/18.png)
+
+5. Terakhir kita bisa mengecek di browser dengan mengetikan alamat ip addres computer kita dan disana akan muncul nama kita.
+
+![19](/week-1/Application-in-Server/img/19.png)
