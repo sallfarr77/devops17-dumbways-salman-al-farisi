@@ -1,6 +1,8 @@
 # Tugas dan Challenge week-1 
 <br/>
 
+# Task
+
 ## 1. [Introduction-to-DevOps](/week-1/Introduction-to-DevOps)
 <br/>
 
@@ -11,3 +13,10 @@
 <br/>
 
 ## 4. [Application in Server](/week-1/Application-in-Server)
+<br/>
+
+<br/>
+
+# Challenge
+
+## 1.
