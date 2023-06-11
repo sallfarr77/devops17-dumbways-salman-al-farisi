@@ -54,4 +54,18 @@ Microservices: Arsitektur microservices memecah aplikasi menjadi bagian-bagian y
 
 ![4](/week-1/Application-in-Server/img/4.png)
 
-5.
+5. Selanjutnya kita bisa membangun website kita dengan comand `npm run build`.
+
+![5](/week-1/Application-in-Server/img/5.png)
+
+6. Lalu kita akan mengetikan comand `npm install -g serve` Perintah npm install -g serve digunakan untuk menginstal global package "serve" dalam lingkungan Node.js menggunakan NPM (Node Package Manager).
+
+![6](/week-1/Application-in-Server/img/6.png)
+
+7. Selanjutnya ketikan `serve -s build` Perintah serve -s build digunakan untuk menjalankan server lokal menggunakan paket "serve" dan menyajikan berkas-berkas yang ada dalam direktori build.
+
+![7](/week-1/Application-in-Server/img/7.png)
+
+8. Setelah itu kita bisa langsung mengecek menggunakan local host atau alamat ip computer kita di browser dan ini adalah website wayshub yang telah kita berhasil deploy.
+
+![8](/week-1/Application-in-Server/img/8.png)
