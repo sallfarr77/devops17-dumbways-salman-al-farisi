@@ -3,7 +3,7 @@
 
 <br/>
 
-## 1. Langkah-langkah menjalankan apache dan bisa di akses lewat localtunnel
+## 1. Menjalankan apache agar bisa di akses melalui localtunnel
 <br/>
 
 1. Pertama-tama kita akan membutuhkan curl atau wget untuk mendownload nvm (node version manager), untuk tutorial kali ini saya akan menggunakan curl, unduh curl terlebih dahulu `sudo apt install curl`
@@ -45,3 +45,19 @@
 7. Masukan alamat domain yang ada di terminal kedalam web browser.
 
 ![7](/week-1/Localtunnel/img/7.png)
+
+<br/>
+
+<br/>
+
+## 2. Deploy website dumbflix dan bisa di akses melalui localtunnel
+
+<br/>
+
+1. Clone repositori dumbflix dengan comand `https://github.com/dumbwaysdev/dumbflix-frontend.git`
+
+![1](/week-1/Localtunnel/img1/1.png)
+
+<br/>
+
+2. Selanjutnya masuk kedalam folder ways
