@@ -60,4 +60,54 @@
 
 <br/>
 
-2. Selanjutnya masuk kedalam folder ways
+2. Selanjutnya masuk kedalam folder dumbflix dan `nano src/config/api.js` ubah portnya ke 3000
+
+![2](/week-1/Localtunnel/img1/2.png)
+
+<br/>
+
+3. Ubah node.js ke versi 10 `nvm use 10` lalu jalankan `npm install`
+
+![3](/week-1/Localtunnel/img1/3.png)
+
+<br/>
+
+4. Selanjutnya `npm run build` dan tunggu sampai selesai
+
+![4](/week-1/Localtunnel/img1/4.png)
+
+<br/>
+
+5. Setelah selesai jalankan `npm install -g serve`
+
+![5](/week-1/Localtunnel/img1/5.png)
+
+<br/>
+
+6. Setelah selesai ubah lagi versi node.js ke versi 14 lalu jalankan `serve -s build`
+
+![6](/week-1/Localtunnel/img1/6.png)
+
+<br/>
+
+7. Setelah website telah di serving buka tab baru di shell dan login dengan ssh yang sama lalu masuk ke folder dumbflix, gunakan node.js versi 14 lalu jalankan `npm install -g localtunnel` untuk menginstall local tunnel secara global
+
+![7](/week-1/Localtunnel/img1/7.png)
+
+<br/>
+
+8. lalu jalankan `lt --port 3000 --subdomain dumbflix` kita bebas ingin menggunakan domain apa saja disini saya menggunakan subdomain dumbflix.loca.lt
+
+![8](/week-1/Localtunnel/img1/8.png)
+
+<br/>
+
+9. Selanjutnya buka browser dan masukan alamat subdomain localtunnel kita, saat pertama kali membuka kita akan disuruh memasukan end point, disini kita akan memasukan ip addres public kita lalu pencet submit
+
+![9](/week-1/Localtunnel/img1/9.png)
+
+<br/>
+
+10. Setelah memasukan end point, kita akan di bawa masuk kedalam landing page halam dumbflix dengan menggunakan node.js dan juga localtunnel
+
+![10](/week-1/Localtunnel/img1/10.png)
