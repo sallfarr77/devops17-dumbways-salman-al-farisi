@@ -48,6 +48,12 @@
 
 <br/>
 
+8. Dan berikut tampilannya ketika saya mengaksesnya lewat smartphone/android.
+
+![8](/week-1/Localtunnel/img/8.png)
+
+<br/>
+
 <br/>
 
 ## 2. Deploy website dumbflix dan bisa di akses melalui localtunnel
