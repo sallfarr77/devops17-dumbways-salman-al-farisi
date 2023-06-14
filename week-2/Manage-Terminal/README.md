@@ -58,4 +58,7 @@ Htop adalah sebuah utilitas pengawasan sistem interaktif berbasis teks yang digu
 ⚫dapat menghentikan atau menghentikan proses yang sedang berjalan langsung dari antarmuka Htop. Ini memungkinkan Anda untuk memantau dan mengelola proses dengan cepat dan efisien.
 
 ⚫Htop menyediakan tampilan grafis yang dapat digunakan untuk memantau penggunaan sumber daya secara visual. Grafik ini mencakup penggunaan CPU dan memori dalam bentuk histogram.
+<br/>
+
+![8](/week-2/Manage-Terminal/img/8.png)
 
