@@ -8,7 +8,7 @@
 <br/>
 
 **Monolith:** Monolith adalah pendekatan di mana seluruh aplikasi dikembangkan sebagai satu unit yang besar. Semua komponen, fungsi, dan layanan tergabung menjadi satu kesatuan.
-Microservices: Arsitektur microservices memecah aplikasi menjadi bagian-bagian yang lebih kecil yang disebut layanan independen. Setiap layanan memiliki tanggung jawab spesifik dan berkomunikasi melalui antarmuka yang didefinisikan dengan baik.
+
 <br/>
 
 **Microservices:** Arsitektur microservices memecah aplikasi menjadi bagian-bagian yang lebih kecil yang disebut layanan independen. Setiap layanan memiliki tanggung jawab spesifik dan berkomunikasi melalui antarmuka yang didefinisikan dengan baik.
