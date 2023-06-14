@@ -63,6 +63,6 @@ Distributed Version Control atau (DVC) adalah metode pengelolaan versi yang memu
 2. `git cherry-pick`, "git cherry-pick" digunakan untuk mengambil perubahan spesifik dari satu cabang dan menerapkannya ke cabang lain dalam Git.
 <br/>
 
-3.  'git reflog',  "git reflog" digunakan untuk melihat riwayat referensi atau perubahan referensi dalam repositori Git. Ini membantu melacak perpindahan referensi seperti HEAD, cabang, atau tag, dan memulihkan keadaan sebelumnya jika terjadi kesalahan atau kehilangan commit.
+3. 'git reflog' ,  "git reflog" digunakan untuk melihat riwayat referensi atau perubahan referensi dalam repositori Git. Ini membantu melacak perpindahan referensi seperti HEAD, cabang, atau tag, dan memulihkan keadaan sebelumnya jika terjadi kesalahan atau kehilangan commit.
 
 
