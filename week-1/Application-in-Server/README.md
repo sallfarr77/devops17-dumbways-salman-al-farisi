@@ -4,7 +4,7 @@
 ## 1. Berikut adalah beberapa perbedaan antara Monolith dan Microservices
 <br/>
 
-### 1. Adalah di dalam Arsitekturnya:
+### 1. dalam Arsitekturnya:
 <br/>
 
 **Monolith:** Monolith adalah pendekatan di mana seluruh aplikasi dikembangkan sebagai satu unit yang besar. Semua komponen, fungsi, dan layanan tergabung menjadi satu kesatuan.
