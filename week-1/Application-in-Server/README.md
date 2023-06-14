@@ -50,7 +50,7 @@
 
 ![3](/week-1/Application-in-Server/img/3.png)
 
-4. Kita juga bisa memperbaiki keamanan dengan `npm audit fix`.
+4. Kita juga bisa memperbaiki keamanan dengan `npm audit fix` (opsional).
 
 ![4](/week-1/Application-in-Server/img/4.png)
 
@@ -83,7 +83,7 @@
 
 ![10](/week-1/Application-in-Server/img/10.png)
 
-3. Selanjutnya kita bisa menginstall golang resmi dari repositori ubuntu dengan simpelnya mengetikan comand `sudo apt install golang` lalu kita tunggu sampai proses installasi selesai.
+3. Selanjutnya kita bisa menginstall golang resmi dari repositori ubuntu dengan simpelnya mengetikan comand `sudo apt install golang` lalu kita tunggu sampai proses installasi selesai akan tetapi kita disarankan untuk menginstallnya dari webnya golang dengan perintah `wget https://dl.google.com/go/go1.13.5.linux-amd64.tar.gz` lalu `sudo tar -C /usr/local/ -xzf go1.13.5.linux-amd64.tar.gz`.
 
 ![11](/week-1/Application-in-Server/img/11.png)
 
