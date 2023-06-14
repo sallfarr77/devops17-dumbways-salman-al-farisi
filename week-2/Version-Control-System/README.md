@@ -49,6 +49,20 @@ Distributed Version Control atau (DVC) adalah metode pengelolaan versi yang memu
 <br/>
 
 8. Dan berikut adalah hasil dari sample repo, 3 file, dan juga 2 branch baru yang telah kita buat.
+<br/>
 
 ![8](/week-2/Version-Control-System/img/8.png)
+<br/>
+
+# Contoh 3 comand git yang belum sempat dijelaskan
+<br/>
+
+1. `git statsh`, Perintah "git stash" digunakan dalam Git untuk menyimpan perubahan sementara yang belum siap untuk di-commit. Ini berguna ketika sedang bekerja pada suatu cabang (branch) dan perlu beralih ke cabang lain tetapi tidak ingin melakukan commit perubahan yang belum selesai.
+<br>
+
+2. `git cherry-pick`, "git cherry-pick" digunakan untuk mengambil perubahan spesifik dari satu cabang dan menerapkannya ke cabang lain dalam Git.
+<br/>
+
+3.  'git reflog',  "git reflog" digunakan untuk melihat riwayat referensi atau perubahan referensi dalam repositori Git. Ini membantu melacak perpindahan referensi seperti HEAD, cabang, atau tag, dan memulihkan keadaan sebelumnya jika terjadi kesalahan atau kehilangan commit.
+
 
