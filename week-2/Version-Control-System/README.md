@@ -24,7 +24,7 @@ Distributed Version Control atau (DVC) adalah metode pengelolaan versi yang memu
 ![3](/week-2/Version-Control-System/img/3.png)
 <br/>
 
-4. Gunakan coma touch untuk menambah 3 file sekaligus 'touch file1 file2 file3`, setelah 3 file tadi dibuat lalu `git add . `, Perintah git add . digunakan untuk menambahkan semua perubahan dalam direktori proyek ke staging area sebelum melakukan commit. Dengan menjalankan perintah ini, Anda memberitahu Git agar melacak perubahan yang ada dalam file-file proyek. Setelah perubahan ditambahkan ke staging area, Anda dapat melakukan commit untuk menyimpan perubahan-perubahan tersebut ke dalam repositori Git. 'git commit -m "Create 3 file"`.
+4. Gunakan coma touch untuk menambah 3 file sekaligus 'touch file1 file2 file3`, setelah 3 file tadi dibuat lalu git add. Perintah git add digunakan untuk menambahkan semua perubahan dalam direktori proyek ke staging area sebelum melakukan commit. Dengan menjalankan perintah ini, Anda memberitahu Git agar melacak perubahan yang ada dalam file-file proyek. Setelah perubahan ditambahkan ke staging area, Anda dapat melakukan commit untuk menyimpan perubahan-perubahan tersebut ke dalam repositori Git. git commit -m "Create 3 file".
 <br/>
 
 ![4](/week-2/Version-Control-System/img/4.png)
