@@ -8,3 +8,6 @@
 <br/>
 
 ## 2. [Manage-Terminal](/week-2/Manage-Terminal)
+<br/>
+
+## 3. [Web-Server-and-Load-Balancing](/week-2/Web-Server-and-Load-Balancing)
