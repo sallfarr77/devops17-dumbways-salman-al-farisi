@@ -11,3 +11,9 @@
 <br/>
 
 ## 3. [Web-Server-and-Load-Balancing](/week-2/Web-Server-and-Load-Balancing)
+<br/>
+
+# Challange
+<br/>
+
+## 1.  [Load-Balancing-2-VMs](/week-2/Load-Balancing-2-VMs)
