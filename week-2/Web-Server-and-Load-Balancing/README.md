@@ -78,8 +78,9 @@
 <br/>
 
 
+<br/>
 
-
+[Untuk lebih detail dan langkah selanjutnya bisa Klik disini](/week-2/Load-Balancing-2-VMs)
 
 
 
