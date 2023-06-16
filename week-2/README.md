@@ -17,3 +17,7 @@
 <br/>
 
 ## 1.  [Load-Balancing-2-VMs](/week-2/Load-Balancing-2-VMs)
+<br/>
+
+## 2.  [git-restore](/week-2/git-restore/)
+
