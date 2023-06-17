@@ -48,7 +48,7 @@
 
 <br/>
 
-8. Dan berikut tampilannya ketika saya mengaksesnya lewat smartphone/android.
+8. Dan berikut tampilannya ketika saya mendeploy dumbflix dan mengaksesnya lewat apache2 dan juga dengan smartphone/android.
 
 ![8](/week-1/Localtunnel/img/8.png)
 
