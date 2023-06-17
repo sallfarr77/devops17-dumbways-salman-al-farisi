@@ -48,9 +48,6 @@
 
 <br/>
 
-8. Dan berikut tampilannya ketika saya mendeploy dumbflix dan mengaksesnya lewat apache2 dan juga dengan smartphone/android.
-
-![8](/week-1/Localtunnel/img/8.png)
 
 <br/>
 
@@ -117,3 +114,8 @@
 10. Setelah memasukan end point, kita akan di bawa masuk kedalam landing page halam dumbflix dengan menggunakan node.js dan juga localtunnel
 
 ![10](/week-1/Localtunnel/img1/10.png)
+<br/>
+
+11. Dan berikut tampilannya ketika saya mendeploy dumbflix dan mengaksesnya dengan smartphone/android.
+
+![11](/week-1/Localtunnel/img/8.png)
