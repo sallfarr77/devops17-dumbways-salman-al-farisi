@@ -8,7 +8,7 @@
 
 ![2](/stage-2/week-1/wayshub-&-nginx/img/2.png)
 
-## 3.Setelah vm telah dibuat selanjutnya kita tinggal masuk kedalam vm cloud kita bisa dengan ssh, disini saya login menggunakan PowerShell7, selanjutnya didalam tugas ini kita di haruskan menggunakan node v14, jika kalian sudah menginstall nvm bisa menggunakan comand `nvm use 14`. Selanjutnya clone repository frontend dan backend: `git clone https://github.com/dumbwaysdev/wayshub-frontend.git' dan `git clone https://github.com/dumbwaysdev/wayshub-backend.git'
+## 3.Setelah vm telah dibuat selanjutnya kita tinggal masuk kedalam vm cloud kita bisa dengan ssh, disini saya login menggunakan PowerShell7, selanjutnya didalam tugas ini kita di haruskan menggunakan node v14, jika kalian sudah menginstall nvm bisa menggunakan comand `nvm use 14`. Selanjutnya clone repository frontend dan backend: `git clone https://github.com/dumbwaysdev/wayshub-frontend.git` dan `git clone https://github.com/dumbwaysdev/wayshub-backend.git`.
 
 ![3](/stage-2/week-1/wayshub-&-nginx/img/3.png)
 
