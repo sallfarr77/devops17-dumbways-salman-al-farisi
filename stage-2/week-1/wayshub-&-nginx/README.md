@@ -12,7 +12,7 @@
 
 ![3](/stage-2/week-1/wayshub-&-nginx/img/3.png)
 
-## 4.Selanjutnya menjalankan Mysql secure installation, sebelumnya kita perlu menginstallnya terlebih dahulu dengan `sudo apt install mysql-server` lalu kita bisa membuat username, pertama masuk sebagai root dulu: `sudo mysql -u root -p` setelah masuk buat username dan password dengan `CREATE USER 'UsernameKamu'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PasswordKamu';` setelah itu kita akan memberikan acces kepada user ini dengan `GRANT SELECT, INSERT ON *.* TO 'UsernameKamu'@'%';` setelah itu `FLUSH PRIVILEGES;`.
+## 4.Selanjutnya menjalankan Mysql secure installation, sebelumnya kita perlu menginstallnya terlebih dahulu dengan `sudo apt install mysql-server` lalu kita bisa membuat username, pertama masuk sebagai root dulu: `sudo mysql -u root -p` setelah masuk buat username dan password dengan `CREATE USER 'UsernameKamu'@'localhost' IDENTIFIED WITH mysql_native_password BY 'PasswordKamu';` setelah itu kita akan memberikan acces kepada user ini dengan `GRANT SELECT, INSERT ON *.* TO 'UsernameKamu'@'localhost';` setelah itu `FLUSH PRIVILEGES;`.
 
 ![4](/stage-2/week-1/wayshub-&-nginx/img/4.png)
 
