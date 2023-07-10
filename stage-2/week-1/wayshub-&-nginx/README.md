@@ -4,7 +4,7 @@
 
 ![1](/stage-2/week-1/wayshub-&-nginx/img/1.png)
 
-## 2.Langkah kedua saya akan membuat duam vm dengan nama Appserver dengan spesifikasi sebagai berikut : 2 CPU, 2 GB RAM, dan juga Gateway : 2 CPU, 1 GB RAM masing-masing dengan ram sebesar 20GB.
+## 2.Langkah kedua saya akan membuat duam vm dengan nama Appserver dengan spesifikasi sebagai berikut : 2 CPU, 2 GB RAM, dan juga Gateway : 2 CPU, 1 GB RAM masing-masing dengan storage sebesar 20GB.
 
 ![2](/stage-2/week-1/wayshub-&-nginx/img/2.png)
 
