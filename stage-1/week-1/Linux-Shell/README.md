@@ -30,29 +30,29 @@ Kesimpulannya adalah bahwa BASH dan shell adalah dua hal yang berbeda, BASH adal
 1. Pertama, pastikan server Ubuntu Anda sudah terkoneksi dengan internet, jika sudah Jalankan perintah `sudo apt update` untuk memperbarui daftar paket pada server Ubuntu.
 
 
-![1](/week-1/Linux-Shell/img/1.png)
+![1](/stage-1/week-1/Linux-Shell/img/1.png)
 
 
 2. Setelah proses pembaruan selesai, jalankan perintah `sudo apt install apache2 -y` untuk menginstal Apache2 pada server Ubuntu.
 
-![2](/week-1/Linux-Shell/img/2.png)
+![2](/stage-1/week-1/Linux-Shell/img/2.png)
 
 
 3. Setelah proses instalasi selesai, jalankan perintah `sudo systemctl start apache2` untuk memulai Apache2.
 
-![3](/week-1/Linux-Shell/img/3.png)
+![3](/stage-1/week-1/Linux-Shell/img/3.png)
 
 
 4.  Untuk mengakses Apache2 melalui IP Address server, buka browser pada komputer Anda dan ketikkan alamat IP Address server di bar URL, note kalian bisa cek ip lewat ubuntu juga dengan 'ifconfig' comand, kemungkinan bakal harus install net-tools terlebih dahulu, dan jika berhasil tampilannya akan seperti ini.
 
 
-![4](/week-1/Linux-Shell/img/4.png)
+![4](/stage-1/week-1/Linux-Shell/img/4.png)
 
 
 5. Untuk memastikan bahwa Apache2 sedang berjalan, jalankan perintah `sudo systemctl status apache2` pada terminal server Ubuntu. Jika Apache2 sedang berjalan, maka statusnya akan ditampilkan sebagai "active (running)".
 
 
-![5](/week-1/Linux-Shell/img/5.png)
+![5](/stage-1/week-1/Linux-Shell/img/5.png)
 
 
 
