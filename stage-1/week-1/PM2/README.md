@@ -6,19 +6,19 @@ pengertian pm2 : PM2 adalah sebuah alat manajemen proses untuk aplikasi Node.js 
 
 1. Instal PM2 melalui npm dengan menjalankan perintah berikut di terminal: `npm install pm2 -g`.
 
-![1](/week-1/PM2/img/1.png/)
+![1](/stage-1/week-1/PM2/img/1.png/)
 
 2. Kemudian kita akan membuat script sederhana untuk node jsnya yang akan kita beri nama app `nano app.js` lalu tuliskan script kita didalamnya.
 
-![2](/week-1/PM2/img/2.png/)
+![2](/stage-1/week-1/PM2/img/2.png/)
 
 3. Setelah PM2 terinstal, jalankan aplikasi menggunakan PM2 dengan perintah: `pm2 start app.js`, PM2 akan memulai aplikasi dan menjalankannya sebagai proses latar belakang yang terkelola. Anda akan melihat output yang menampilkan informasi tentang proses yang sedang berjalan.
 
-![3](/week-1/PM2/img/3.png/)
+![3](/stage-1/week-1/PM2/img/3.png/)
 
  4. Untuk memantau proses yang dijalankan oleh PM2, jalankan perintah: `pm2 monit`, Perintah ini akan menampilkan informasi pemantauan seperti penggunaan CPU, memori, dan log dari aplikasi.
 
-![4](/week-1/PM2/img/4.png/)
+![4](/stage-1/week-1/PM2/img/4.png/)
 
 <br/>
 
@@ -26,12 +26,12 @@ pengertian pm2 : PM2 adalah sebuah alat manajemen proses untuk aplikasi Node.js 
 
 1. Buat file baru dengan nama "app.py" dan tambahkan kode berikut.
 
-![5](/week-1/PM2/img/5.png/)
+![5](/stage-1/week-1/PM2/img/5.png/)
 
 2. Setelah PM2 terinstal, jalankan aplikasi Python menggunakan PM2 dengan perintah berikut: `pm2 start app.py --name app --interpreter python3`
 <br/>
 
-![6](/week-1/PM2/img/6.png/)
+![6](/stage-1/week-1/PM2/img/6.png/)
 
 `start`: Perintah untuk memulai aplikasi menggunakan PM2.
 <br/>
@@ -49,5 +49,5 @@ PM2 akan memulai aplikasi dan menjalankannya sebagai proses latar belakang yang 
 
 4. Kita juga dapat menggunakan perintah `pm2 monit` untuk memantau proses yang dijalankan oleh PM2 dan melihat output dari aplikasi Python.
 
-![7](/week-1/PM2/img/7.png/)
+![7](/stage-1/week-1/PM2/img/7.png/)
 
