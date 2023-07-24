@@ -4,20 +4,20 @@
 # Task
 <br/>
 
-## 1. [Version-Control-System](/week-2/Version-Control-System)
+## 1. [Version-Control-System](/stage-1/week-2/Version-Control-System)
 <br/>
 
-## 2. [Manage-Terminal](/week-2/Manage-Terminal)
+## 2. [Manage-Terminal](/stage-1/week-2/Manage-Terminal)
 <br/>
 
-## 3. [Web-Server-and-Load-Balancing](/week-2/Web-Server-and-Load-Balancing)
+## 3. [Web-Server-and-Load-Balancing](/stage-1/week-2/Web-Server-and-Load-Balancing)
 <br/>
 
 # Challange
 <br/>
 
-## 1.  [Load-Balancing-2-VMs](/week-2/Load-Balancing-2-VMs)
+## 1.  [Load-Balancing-2-VMs](/stage-1/week-2/Load-Balancing-2-VMs)
 <br/>
 
-## 2.  [git-restore](/week-2/git-restore/)
+## 2.  [git-restore](/stage-1/week-2/git-restore/)
 
